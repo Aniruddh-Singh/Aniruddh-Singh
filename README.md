@@ -4,7 +4,7 @@
 
 <h3 align="left">- 🌱 I’m currently learning **ReactJS, node JS, Express JS, etc.</h3>
 
-<h3 align="left">- 👨‍💻 All of my projects are available at [https://github.com/Aniruddh-Singh?tab=repositories](https://github.com/Aniruddh-Singh?tab=repositories)</h3>
+<h3 align="left">- 👨‍💻 All of my projects are available at https://github.com/Aniruddh-Singh?tab=repositories</h3>
 
 <h3 align="left">- 📫 How to reach me **https://www.linkedin.com/in/aniruddh-singh-9486841b3/</h3>
 
